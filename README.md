@@ -20,16 +20,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/get?r=omBratteng" target="_blank">
-    <img
-      width="256"
-      align="right"
-      src="https://raw.githubusercontent.com/omBratteng/omBratteng/devcard/devcard.svg"
-    />
-  </a>
+  <a href="https://app.daily.dev/khengyun">
+    <img src="https://api.daily.dev/devcards/3b17db9a3e794effb75fa4814e9a2b91.png?r=6zj" width="400" alt="khaangnguyeen's Dev Card"/></a>
 </div>
 
-## I am Ole-Martin Bratteng
+## I am khengyun
 
 - Developer at [The National Archives of Norway](https://www.arkivverket.no/en)
 - Loves a freshly brewed cup of coffee
